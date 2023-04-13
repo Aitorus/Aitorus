@@ -9,8 +9,3 @@ Soy un joven profesional con experiencia en administración y finanzas, actualme
 
 </p>
 ----------------------
-
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/Aitorus/Aitorus/blob/main/Home.png">
-</p>
-
