@@ -11,9 +11,10 @@
 //
 
 I'm Aitor, a young professional passionate about data analytics with an academic background in administration and finance. Currently, I'm in the process of training in Data Analytics.
+
 ----------------------
 
-<p align="left" width="100%">
-    <img width="20%" src="https://github.com/Aitorus/Aitorus/blob/main/Home.png">
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Aitorus/Aitorus/blob/main/Home.png">
 </p>
-----------------------
+
