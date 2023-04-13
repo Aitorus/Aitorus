@@ -1,7 +1,7 @@
 # Hellooo !! &#128075;&#128421;
 ----------------
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/Aitorus/Aitorus/blob/main/Home.png">
+    <img width="100%" src="https://github.com/Aitorus/Aitorus/blob/main/Homes.png">
 </p>
 
 
