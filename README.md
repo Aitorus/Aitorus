@@ -13,5 +13,5 @@
 Hello! I'm Aitor, a young professional passionate about data analytics with an academic background in administration and finance. Currently, I'm in the process of training in Data Analytics.
 
 <p align="center">
-  <img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/Aitorus/Home.png" />
+  <img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/Home.png" />
 </p>
