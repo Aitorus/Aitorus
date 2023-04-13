@@ -1,17 +1,13 @@
-# Hi !!
+# Hellooo !!
 
 
 
 
+<p align="center"
 
+Soy un joven profesional con experiencia en administración y finanzas, actualmente formándome en análisis de datos para mejorar mis habilidades y mantenerme actualizado sobre las últimas tendencias. Me apasiona utilizar información y análisis para impulsar decisiones empresariales positivas y generar resultados exitosos.
 
- Soy Aitor un joven profesional apasionado de la analítica de datos con una formación académica en administración y finanzas. Actualmente, estoy en proceso de formación en Data Analytics.
-
-
-//
-
-I'm Aitor, a young professional passionate about data analytics with an academic background in administration and finance. Currently, I'm in the process of training in Data Analytics.
-
+</p>
 ----------------------
 
 <p align="center" width="100%">
