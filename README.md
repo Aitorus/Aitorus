@@ -19,3 +19,8 @@ Skills : ✅
 - Power BI
 - Pandas
 - Scikit - Learn
+- Tableau
+
+Proyectos:
+
+RRHH_DECISION_TREE - Proyecto donde se analiza el abandono y el coste presente y futuro del abandono empresarial.
