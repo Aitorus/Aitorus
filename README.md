@@ -24,3 +24,4 @@ Skills : ✅
 Proyectos:
 
 RRHH_DECISION_TREE - Proyecto donde se analiza el abandono y el coste presente y futuro del abandono empresarial.
+AFFAIRS_EXT - Proyecto de visualización para obtener una comprensión más profunda del estado emocional y las dinámicas de pareja en España en ese período específico.
